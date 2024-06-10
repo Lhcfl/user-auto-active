@@ -1,0 +1,4 @@
+plugins:
+  enable_user_auto_active_plugin:
+    default: true
+    client: false
